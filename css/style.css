@@ -185,3 +185,8 @@ ul {
     font-size: 2rem;
     font-weight: 600;
 }
+.clsBtn{
+    all: unset;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(0 0 0 / 40%);
+}
