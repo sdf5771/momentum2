@@ -139,6 +139,7 @@ input[type="text" i] {
 li {
     display: list-item;
     text-align: -webkit-match-parent;
+    text-shadow: 5px 5px 5px rgb(0 0 0 / 40%);
 }
 ul {
     display: block;
